@@ -1,0 +1,32 @@
+---
+title: autotest_pool_tutorialg7Py21
+description: autotestX4M78U_10/23/2020 10:36:41 AM
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
+primary_tag: tutorial:product/sapHana
+time: 224
+author_profile: https://github.com/ksAutotests
+author_name: ksAutotests
+---
+### You will learn
+- You will learn this
+- and that
+
+autotest tutorial textZz5W5I
+
+## Prerequisites
+- Prerequisute1
+- Prerequisute2
+- Prerequisute3
+
+[ACCORDION-BEGIN [](First step)]
+[DONE]
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [](Second step)]
+[DONE]
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [](Third step)]
+[DONE]
+[ACCORDION-END]
+
